@@ -46,4 +46,4 @@ To run this application via terminal, navigate to the project root and execute:
 - `service`: Handles business logic and data operations using ArrayList.
 - `exception`: Manages custom application errors (e.g., EntityNotFoundException).
 - `util`: Global helper classes like IdGenerator.
-- `ui`: Driver console class containing the user menu system.
+- `ui`: Driver console class containing the user menu system. 
